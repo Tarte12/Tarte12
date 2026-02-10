@@ -58,12 +58,13 @@
 ---
 
 ### 📈 Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarte12&show_icons=true&theme=transparent" alt="Tarte12's github stats" />
-</p>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Tarte12&utm_content=line">
-  <img src="https://render.gitanimals.org/lines/Tarte12" width="600" height="120" />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Tarte12&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Tarte12"
+  width="600"
+  height="300"
+/>
 </a>
 
 </div>
