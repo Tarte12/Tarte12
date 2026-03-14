@@ -1,70 +1,86 @@
-<div align="center">
 
-# 👨‍💻 김희수 | Back-end Developer
+  # 김희수 | Back-end Developer
 
-**"호기심으로 탐구하고, AI와 함께 효율을 빚어냅니다."**
+  효율적인 한 수를 위해 고민합니다.
 
-<p align="center">
-  <a href="https://velog.io/@emprimula/posts"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  <a href="mailto:huisukim9905@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+  <p>
+    <a href="mailto:huisukim9905@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  </p>
 
----
+  </div>
 
-### 🛠 Tech Stacks
+  ---
 
-**Languages & Frameworks**
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-</p>
+  ## Skills
 
-**Infrastructure & Database**
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-0769AD?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-</p>
+  ### Backend
+  <p>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  </p>
 
----
+  ### Frontend
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  </p>
 
-### 🚀 Key Projects
-*이미지를 클릭하면 해당 Repository로 이동합니다.*
+  ### Database & Infra
+  <p>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  </p>
 
-| [Cohi-Chat (커피챗)](https://github.com/CheHyeonYeong/cohi-chat) | [Carhartt (중고거래)](https://github.com/woonkim0413/Carhartt_used_transactions_backend) | [INKPAD (블로그)](https://github.com/Tarte12/inkpad) |
+  ---
 
+  ## 최근에 이런 걸 하고 있어요
 
+  ### [Cohi-Chat](https://github.com/CheHyeonYeong/cohi-chat)
+  > 개발자 간 1:1 커피챗 예약 서비스
+  풀스택으로 참여하며 인증/보안과 예약 도메인 쪽을 주로 맡고 있어요.
 
-### 📚 Continuous Learning & Study
-*이론에 머물지 않고 학습한 내용을 프로젝트의 기술적 의사결정에 반영합니다.*
+  ### [CodingTestStudy](https://github.com/Tarte12/CodingTestStudy)
+  > 꾸준한 코딩테스트 풀이 저장소
+  구현력과 문제 해결 감각을 유지하려고 계속 문제를 풀고 있어요.
 
-#### **Ongoing**
-**돼드락:** DDIA(데이터 중심 애플리케이션 설계) 스터디 (ing) <br>
-**이상한 나라의 객지오:** 객체지향의 사실과 오해 & 오브젝트 & 이펙티브 자바 스터디 (ing)
+  ---
 
-#### **Completed**
-**릴마큐 (완독):** Real MySQL 8.0(1) 스터디. DB 엔진 동작 원리 및 인덱스 최적화 기반 마련 <br>
-**빅설기 (완독):** 가상 면접 사례로 배우는 대규모 시스템 설계 기초(1). 가용성 높은 아키텍처 학습 <br>
-**KUT:** 알고리즘 및 코딩테스트 스터디
+  ## 최근 이런 것에 관심을 두고 있어요
 
----
+  - AI Agent를 실제 개발 흐름에서 더 잘 쓰는 방법
+  - MSA와 분산 서버 환경에서의 장애 감지와 대응
+  - 카프카 스터디 | `2026.03 - 진행 중`
+  - 돼드락(데이터 중심 애플리케이션 설계) 스터디 | `2026.01 - 진행 중`
 
-### 🤖 AI-Driven Development
-*단순 코드 생성을 넘어, **AI를 설계 및 검증 파트너**로 활용합니다.*
+  ---
 
-**Claude Code:** 이슈 분석 및 PR 생성 등 개발 생명주기(SDLC) 전반의 바이브 코딩 실무 활용 <br>
-**CodeRabbit:** 자동화된 코드 리뷰 시스템 구축으로 리뷰 피드백 루프 가속화
+  ## 이런 걸 공부했어요
 
----
+  - [빅설기(대규모 시스템 설계 기초) 스터디](https://velog.io/@emprimula/big12) |
+  `2025.11 - 2025.12`
+  - [릴마큐(Real MySQL 8.0) 스터디](https://velog.io/@emprimula/realmysql42) | `2025.11 - 2026.01`
+  - 자바/스프링 스터디 | `2025.04 - 2025.08`
 
-### 📈 Stats & Activity
+  ---
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Tarte12&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Tarte12"
-  width="600"
-  height="300"
-/>
-</a>
+  ## AI-Driven Development
 
-</div>
+  - AI를 단순 코드 생성기가 아니라, 작업 규칙과 병렬 흐름을 함께 설계하는 보조 도구로 활용하고 있습니다.
+  - Claude Code, CodeRabbit, Git Worktree를 조합해 리뷰 부담을 줄이고 병렬 작업 흐름을 정리해 봤습니다.
+
+  ---
+
+  ## Stats & Activity
+
+  <div align="center">
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Tarte12&utm_content=farm">
+      <img src="https://render.gitanimals.org/farms/Tarte12" width="600" height="300" />
+    </a>
+  </div>
