@@ -44,7 +44,7 @@
 
   ### [Cohi-Chat](https://github.com/CheHyeonYeong/cohi-chat)
   > 개발자 간 1:1 커피챗 예약 서비스
-  풀스택으로 참여하며 인증/보안과 예약 도메인 쪽을 주로 맡고 있어요.
+  풀스택으로 참여하며 인증/보안과 예약 도메인 쪽을 주로 맡고 있고, 요즈음에는 채팅 기능 구현을 위해 공부 중이에요.
 
   ### [CodingTestStudy](https://github.com/Tarte12/CodingTestStudy)
   > 꾸준한 코딩테스트 풀이 저장소
