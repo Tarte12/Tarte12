@@ -1,14 +1,5 @@
 # 김희수 | Back-end Developer
 
-  처음 보이는 문제를 그대로 믿지 않았어요.
-  같은 문제도 어떻게 보느냐에 따라 접근 방식이 달라질 수 있기 때문이에요.
-
-  배포 지연은 단순 서버 성능 문제가 아니라 서버에서 직접 빌드하던 구조의 병목으로 봤어요.
-  파일 업로드 부하는 서버 최적화 문제가 아니라 서버를 경유하는 구조의 비효율로 판단했어요.
-
-  지금의 구현보다 다음 변경의 비용을 먼저 봤어요.
-  개인의 코드보다 팀 전체가 다루기 쉬운 구조를 만드는 데 더 관심을 두고 개발했어요.
-
   <p>
     <a href="mailto:huisukim9905@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/Tarte12"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
