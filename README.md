@@ -103,8 +103,8 @@
 
 ## Study
 
-- [Kafka](https://velog.io/@emprimula/kafka1) | `2026.03 -`
-- [데이터 중심 애플리케이션 설계](https://velog.io/@emprimula/ddia6) | `2025.12 -`
+- [Kafka](https://velog.io/@emprimula/kafka1) | `2026.03 - 2026.05`
+- [데이터 중심 애플리케이션 설계](https://velog.io/@emprimula/ddia6) | `2025.12 - 2026.05`
 - [대규모 시스템 설계 기초](https://velog.io/@emprimula/big12) | `2025.11 - 2025.12`
 - [Real MySQL 8.0](https://velog.io/@emprimula/realmysql42) | `2025.11 - 2026.01`
 - Java / Spring | `2025.04 - 2025.08`
