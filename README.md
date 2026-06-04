@@ -81,6 +81,13 @@
 
 ## Bug Fixes
 
+### [Spring Kafka](https://github.com/spring-projects/spring-kafka/issues/4357)
+
+`Spring Kafka` `ShareKafkaMessageListenerContainer` `Concurrency` `Bug Report`
+
+- `doStart()`가 consumer thread 시작을 기다리지 않아 `consumerStartTimeout`이 무시될 수 있는 문제 제보
+- regular container와 share container의 시작 흐름 차이를 비교하고 재현 조건 정리
+
 ### [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway/pull/4118)
 
 `Spring Cloud Gateway` `CORS` `Configuration` `Docs Fix`
