@@ -40,7 +40,7 @@
 
 ---
 
-## Projects
+## Toy Projects
 
 ### [Cohi-Chat](https://github.com/CheHyeonYeong/cohi-chat)
 
