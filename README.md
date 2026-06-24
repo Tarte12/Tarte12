@@ -7,8 +7,15 @@
 </p>
 
 ---
+## Pacman eats my daily GiHub Contributions
 
-## Stack
+<img
+  src="https://raw.githubusercontent.com/Tarte12/Tarte12/output/pacman-contribution-graph-dark.svg?v=1"
+  alt="Snake animation"
+/>
+---
+
+## Tech Stack
 
 ### Backend
 
