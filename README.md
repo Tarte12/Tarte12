@@ -118,14 +118,6 @@
 
 ---
 
-## AI-Driven Development
-
-`Claude Code` `CodeRabbit` `Git Worktree` `Parallel Workflow` `Review Automation`
-
-- 작업 분해, 리뷰, 반복 구현 루프에 AI Agent 활용
-- 설계 기준, 검증 기준, 최종 반영은 직접 관리
-
----
 
 ## Stats & Activity
 
