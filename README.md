@@ -79,7 +79,7 @@
 
 ---
 
-## Bug Fixes
+## Open Source
 
 ### [Spring Kafka](https://github.com/spring-projects/spring-kafka/issues/4357)
 
